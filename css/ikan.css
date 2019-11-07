@@ -1,0 +1,444 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#Heading1
+{
+   color: #00FF00;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Heading2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#Heading2
+{
+   color: #7CFC00;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Form1
+{
+   background-color: #DCDCDC;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Line1
+{
+   font-size: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 8px;
+   width: 1304px;
+}
+#SlideMenu1 ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#SlideMenu1 li a
+{
+   background-color: #337AB7;
+   border-color: #2E6DA4;
+   border-style: solid;
+   border-width: 1px;
+   color: #FFFFFF;
+   cursor: pointer;
+   display: block;
+   font-weight: normal;
+   left: 0;
+   height: 16px;
+   margin: 0;
+   padding: 2px 2px 2px 5px;
+   position: relative;
+   text-decoration: none;
+   top: 0;
+   text-align: left;
+}
+#SlideMenu1 li a:hover
+{
+   background-color: #286090;
+   border-color: #204D74;
+   color: #FFFFFF;
+   font-weight: normal;
+   text-decoration: none;
+}
+#SlideMenu1 li li a
+{
+   background-color: #FFFFFF;
+   border-color: #CCCCCC;
+   border-style: solid;
+   border-width: 1px;
+   color: #333333;
+   display: block;
+   font-weight: normal;
+   height: 16px;
+   margin: 1px 0px 1px 0px;
+   padding: 2px 2px 2px 5px;
+   text-decoration: none;
+}
+#SlideMenu1 li li a:hover
+{
+   background-color: #D4D4D4;
+   border-color: #8C8C8C;
+   color: #333333;
+   font-weight: normal;
+   text-decoration: none;
+}
+#tabel_ikan
+{
+   border: 2px solid #C0C0C0;
+   background-color: transparent;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 1px;
+   margin: 0;
+}
+#tabel_ikan td
+{
+   padding: 0;
+}
+#tabel_ikan .cell0
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 132px;
+   height: 44px;
+}
+#tabel_ikan .cell1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 194px;
+   height: 44px;
+}
+#tabel_ikan .cell2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 216px;
+   height: 44px;
+}
+#tabel_ikan .cell3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   height: 44px;
+}
+#tabel_ikan .cell4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 132px;
+   height: 148px;
+}
+#tabel_ikan .cell5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 194px;
+   height: 148px;
+}
+#tabel_ikan .cell6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 216px;
+   height: 148px;
+   font-size: 0;
+}
+#tabel_ikan .cell7
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 148px;
+   font-size: 0;
+}
+#wb_Picture1
+{
+   margin: 0;
+   vertical-align: top;
+}
+#Picture1
+{
+   border: 0px solid #000000;
+   box-sizing: border-box;
+   padding: 0;
+   display: inline-block;
+   width: 150px;
+   height: 148px;
+   vertical-align: top;
+}
+#tambah_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/tambah.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#cari_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/cari.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#edit_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/edit.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#hapus_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/hapus.jpeg);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#wb_form_ikan
+{
+   background-color: #DCDCDC;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_edit_ikan
+{
+   background-color: khaki;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_cari_ikan
+{
+   background-color: #DCDCDC;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#Label1
+{
+   border: 0px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+   vertical-align: top;
+}
+#Label2
+{
+   border: 0px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+   vertical-align: top;
+}
+#Label3
+{
+   border: 0px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+   vertical-align: top;
+}
+#tnm_ikan
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#tnm_ikan:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#thrg_ikan
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#thrg_ikan:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#gbr_ikan
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#simpan_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/simpan.jpeg);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#close_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}

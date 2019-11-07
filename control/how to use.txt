@@ -1,0 +1,9 @@
+to view the complete instruction about how to use my custom framework,
+open "ikan.php" file.
+it contain the complete instruction about how to use the class and property
+that being used by most of files in this program,
+if you still have some difficult about this program and how to modify it, or
+if you just want to send me the bug or just want to send some comment
+about my program, send me email
+shandysanfisher@gmail.com
+anyway, thank for using my program

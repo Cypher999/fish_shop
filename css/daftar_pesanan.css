@@ -1,0 +1,644 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_Form1
+{
+   background-color: #DCDCDC;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#Heading1
+{
+   color: #00FF00;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Heading2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#Heading2
+{
+   color: #7CFC00;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Line1
+{
+   font-size: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 8px;
+   width: 1304px;
+}
+#SlideMenu1 ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#SlideMenu1 li a
+{
+   background-color: #337AB7;
+   border-color: #2E6DA4;
+   border-style: solid;
+   border-width: 1px;
+   color: #FFFFFF;
+   cursor: pointer;
+   display: block;
+   font-weight: normal;
+   left: 0;
+   height: 16px;
+   margin: 0;
+   padding: 2px 2px 2px 5px;
+   position: relative;
+   text-decoration: none;
+   top: 0;
+   text-align: left;
+}
+#SlideMenu1 li a:hover
+{
+   background-color: #286090;
+   border-color: #204D74;
+   color: #FFFFFF;
+   font-weight: normal;
+   text-decoration: none;
+}
+#SlideMenu1 li li a
+{
+   background-color: #FFFFFF;
+   border-color: #CCCCCC;
+   border-style: solid;
+   border-width: 1px;
+   color: #333333;
+   display: block;
+   font-weight: normal;
+   height: 16px;
+   margin: 1px 0px 1px 0px;
+   padding: 2px 2px 2px 5px;
+   text-decoration: none;
+}
+#SlideMenu1 li li a:hover
+{
+   background-color: #D4D4D4;
+   border-color: #8C8C8C;
+   color: #333333;
+   font-weight: normal;
+   text-decoration: none;
+}
+#tabel_pesan
+{
+   border: 2px solid #C0C0C0;
+   background-color: transparent;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 1px;
+   margin: 0;
+}
+#tabel_pesan td
+{
+   padding: 0;
+}
+#tabel_pesan .cell0
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 132px;
+   height: 32px;
+}
+#tabel_pesan .cell1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 194px;
+   height: 32px;
+}
+#tabel_pesan .cell2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 80px;
+   height: 32px;
+}
+#tabel_pesan .cell3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 100px;
+   height: 32px;
+}
+#tabel_pesan .cell4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 178px;
+   height: 32px;
+}
+#tabel_pesan .cell5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   width: 134px;
+   height: 32px;
+}
+#tabel_pesan .cell6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+   vertical-align: top;
+   height: 32px;
+}
+#tabel_pesan .cell7
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 132px;
+   height: 148px;
+}
+#tabel_pesan .cell8
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 194px;
+   height: 148px;
+}
+#tabel_pesan .cell9
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 80px;
+   height: 148px;
+}
+#tabel_pesan .cell10
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 100px;
+   height: 148px;
+}
+#tabel_pesan .cell11
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 178px;
+   height: 148px;
+}
+#tabel_pesan .cell12
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 134px;
+   height: 148px;
+}
+#tabel_pesan .cell13
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 148px;
+   font-size: 0;
+}
+#hapus_ikan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/download.jpeg);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#cari_pesan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/download.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#Button1
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/IK-6.jpg);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: contain;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#wb_Form2
+{
+   background-color: #C0C0C0;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_luser 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_luser div
+{
+   text-align: left;
+}
+#wb_lnama 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_lnama div
+{
+   text-align: left;
+}
+#wb_lalt 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_lalt div
+{
+   text-align: left;
+}
+#wb_lnotel 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_lnotel div
+{
+   text-align: left;
+}
+#wb_likan 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_likan div
+{
+   text-align: left;
+}
+#wb_lhrg 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_lhrg div
+{
+   text-align: left;
+}
+#wb_tuser 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_tuser div
+{
+   text-align: left;
+}
+#wb_tnama 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_tnama div
+{
+   text-align: left;
+}
+#wb_talt 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_talt div
+{
+   text-align: left;
+}
+#wb_tnotel 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_tnotel div
+{
+   text-align: left;
+}
+#wb_tikan 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_tikan div
+{
+   text-align: left;
+}
+#wb_thrg 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_thrg div
+{
+   text-align: left;
+}
+#wb_ljml 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_ljml div
+{
+   text-align: left;
+}
+#wb_ltotal 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_ltotal div
+{
+   text-align: left;
+}
+#wb_ltgl 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_ltgl div
+{
+   text-align: left;
+}
+#wb_ttgl 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_ttgl div
+{
+   text-align: left;
+}
+#wb_tjml 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_tjml div
+{
+   text-align: left;
+}
+#wb_ttotal 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 1px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_ttotal div
+{
+   text-align: left;
+}
+#btn_close_rev
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#wb_Form3
+{
+   background-color: #EEE8AA;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+}
+#wb_lcari_pesan 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_lcari_pesan div
+{
+   text-align: left;
+}
+#close_cari_pesan
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   margin: 0;
+}
+#tcari_pesan
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#tcari_pesan:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
